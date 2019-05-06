@@ -1,0 +1,29 @@
+{
+	
+	"colors": [
+		
+		"#EEE",
+		"#400075",
+		"#400075",
+		"#0FA400",
+		"#A6C70A",
+		"#F7CE0D",
+		"#DB7803",
+		"#11DCE9",
+		"#E02323"
+	
+	],
+	"texts": [
+	
+		"--",
+		"Inicio de Cursado",
+		"Fin de Cursado",
+		"Turno Ordinario de Examen",
+		"Mesa Excepcional (C. Fue.)",
+		"Mesa Especial (Curs. 1)",
+		"Mesa extraordinaria (Curs. 2)",
+		"Receso Invernal",
+		"Feriado"
+		
+	]
+}
