@@ -10,7 +10,7 @@
 		"#F7CE0D",
 		"#DB7803",
 		"#11DCE9",
-		"#E02323"
+		//"#E02323"
 	
 	],
 	"texts": [
@@ -23,7 +23,7 @@
 		"Mesa Especial (Curs. 1)",
 		"Mesa extraordinaria (Curs. 2)",
 		"Receso Invernal",
-		"Feriado"
+		//"Feriado"
 		
 	]
 }
